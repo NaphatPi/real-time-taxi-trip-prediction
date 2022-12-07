@@ -1,5 +1,5 @@
 # bigdata-trendmk-team-9
-Repository for bigdata trendmarketplace
+Repository for bigdata trendmarketplace team 9 - Real-time prediction for taxi trip durations using AWS
 
 ## Business background
 In this project, we use AWS services to implement real-time machine learning inference on streming data. The business context in which we will make use of the architechture here is the delivery service industry. 
