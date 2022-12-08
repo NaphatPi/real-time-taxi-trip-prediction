@@ -20,7 +20,7 @@ This project derived from the AWS workshop - [Real Time ML inference on Streamin
 All specific details for each service could be found below.
 
 ### AWS Sagemaker
-Please follow the 2 jupyter notebooks in sagemaker folder too see how to perform data cleaning, data exploration and ML model training and deployment. Small samples of training data are stored in sample_data folder, which could be used as a reference to the structures of the dataset.
+Please follow the 2 jupyter notebooks in sagemaker folder to see how to perform data cleaning, data exploration and ML model training and deployment. Small samples of training data are stored in sample_data folder, which could be used as a reference to the structures of the dataset.
 
 ### AWS kinesis
 Please follow the instructions as shown in the article above for how to setup the Kinesis stream, Kinesis analytic, and Apache flink for real-time streaming.
@@ -30,7 +30,7 @@ The template to create a lambda function and API Gateway is stored in the cloudf
 The lambda function code to perform data processing and connecting to the Sagemaker Endpoint could be found in the lambda folder.
 
 ### AWS S3
-Please follow the steps in the article to create and setup an S3 bucket.
+Please follow the steps described in the article to create and setup an S3 bucket.
 
 ### AWS Cloud9
 The python script to simulate the data generation process for Cloud9 can be found in cloud9 folder. Please follow the instruction in the article to see how to setup a cloud9 environment to run the script.
