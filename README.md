@@ -33,7 +33,7 @@ The lambda function code to perform data processing and connecting to the Sagema
 Please follow the steps described in the article to create and setup an S3 bucket.
 
 ### AWS Cloud9
-The python script to simulate the data generation process for Cloud9 can be found in cloud9 folder. Please follow the instruction in the article to see how to setup a cloud9 environment to run the script.
+The python script to simulate the data generation process for Cloud9 can be found in cloud9 folder. The samples of the dataset used for datastream simulation is provided in the sample_data folder, which could be used as a reference to the structures of the dataset. Please follow the instruction in the article to see how to setup a cloud9 environment to run the script.
 
 ### AWS Athena
 The sql script to create a table to query from the s3 bucket is provided in the athena folder.
