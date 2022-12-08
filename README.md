@@ -12,11 +12,12 @@ Presentation video : https://www.youtube.com/watch?v=hcFiFaz7DXU
 
 
 ## Dataset
-Our demonstration use samples from New York City Taxi and Limousine Commission (TLC) Trip Record Data (https://registry.opendata.aws/nyc-tlc-trip-records-pds/)
+Our demonstration uses samples from New York City Taxi and Limousine Commission (TLC) Trip Record Data (https://registry.opendata.aws/nyc-tlc-trip-records-pds/)
 
 
 ## Set up instruction
 This project derived from the AWS workshop - [Real Time ML inference on Streaming Data](https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US/lab7#overview) - which utilizes several AWS services. To learn more about the core architecture, please follow the link to see more detailed settings.
+All codes and additional detail for each service could be found below.
 
 ### AWS Sagemaker
 Please follow the 2 jupyter notebooks in sagemaker folder too see how to perform data cleaning, data exploration and ML model training and deployment. Small samples of training data are stored in sample_data folder, which could be used as a reference to the structures of the dataset.
@@ -51,12 +52,12 @@ Please follow this [link](https://catalog.us-east-1.prod.workshops.aws/workshops
 
 
 ## Reference
-Real Time ML inference on Streaming Data (https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US/lab7#overview)
-New York City Taxi and Limousine Commission (TLC) Trip Record Data (https://registry.opendata.aws/nyc-tlc-trip-records-pds/)
-Visualize with QuickSight using Athena (https://catalog.us-east-1.prod.workshops.aws/workshops/9981f1a1-abdc-49b5-8387-cb01d238bb78/en-US/30-basics/307-quicksight)
+- Real Time ML inference on Streaming Data (https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US/lab7#overview)
+- New York City Taxi and Limousine Commission (TLC) Trip Record Data (https://registry.opendata.aws/nyc-tlc-trip-records-pds/)
+- Visualize with QuickSight using Athena (https://catalog.us-east-1.prod.workshops.aws/workshops/9981f1a1-abdc-49b5-8387-cb01d238bb78/en-US/30-basics/307-quicksight)
 
 
 ## Additional Resource
 Here are some useful resources to learn more about how to make a variety of visualization on quicksights and how to connect it to other services.
-Local File to S3 to QuickSight Dashboard (https://m.youtube.com/watch?v=olA5ikCuLo0)
-AWS Athena Glue and QuickSight Tutorial | Athena and QuickSight Integration | Serverless Analytics (https://www.youtube.com/watch?v=Cg4DNZcLh5A)
+- Local File to S3 to QuickSight Dashboard (https://m.youtube.com/watch?v=olA5ikCuLo0)
+- AWS Athena Glue and QuickSight Tutorial | Athena and QuickSight Integration | Serverless Analytics (https://www.youtube.com/watch?v=Cg4DNZcLh5A)
