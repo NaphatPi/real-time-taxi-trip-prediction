@@ -28,4 +28,4 @@ ROW FORMAT SERDE 'org.openx.data.jsonserde.JsonSerDe'
 WITH SERDEPROPERTIES (
   'serialization.format' = '1',
    "dots.in.keys" = "true"
-) LOCATION 's3://trendmarket-team-bucket/resultset/';
+) LOCATION '<YOUR-S3-BUCKET-HERE>';
