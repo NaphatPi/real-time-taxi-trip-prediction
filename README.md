@@ -15,7 +15,7 @@ Presentation video : https://www.youtube.com/watch?v=hcFiFaz7DXU
 Our demonstration uses samples from New York City Taxi and Limousine Commission (TLC) Trip Record Data (https://registry.opendata.aws/nyc-tlc-trip-records-pds/)
 
 
-## Set up instruction
+## Setup instruction
 This project derived from the AWS workshop - [Real Time ML inference on Streaming Data](https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US/lab7#overview) - which utilizes several AWS services. To learn more about the core architecture, please follow the link to see more detailed settings.
 All specific details for each service could be found below.
 
