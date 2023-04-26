@@ -1,4 +1,4 @@
-# Real-time prediction for taxi trip durations using AWS
+# Real-time prediction of taxi trip durations using AWS
 ![](images/index.png)
 Repository for bigdata trendmarketplace team 9 - Real-time prediction for taxi trip durations using AWS.
 This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.
